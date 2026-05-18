@@ -23,7 +23,7 @@ export default function Areas() {
       <section className="bg-secondary text-white py-20 relative overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1596524430615-b46475ddff6e?auto=format&fit=crop&q=80" 
+            src="/images/hood.png" 
             alt="Areas We Serve in Lubbock TX" 
             className="w-full h-full object-cover"
             referrerPolicy="no-referrer"
